@@ -10,6 +10,8 @@
   - [ ] [Images](https://www.linkedin.com/in/alexxubyte/recent-activity/images/)
   - [ ] [Documents](https://www.linkedin.com/in/alexxubyte/recent-activity/documents/)
 - [ ] MIT Security Course
+- [ ] Helm chart
+- [ ] Vault
 
 ## Projects
 - [ ] Access Miner
