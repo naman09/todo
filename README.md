@@ -13,6 +13,11 @@
 - [ ] Helm chart
 - [ ] Vault
 
+### Books
+- [ ] System Design 1
+- [ ] System Design The Big Archive
+- [ ] Head First OO Analysis and Design
+
 ## Projects
 - [ ] Access Miner
 - [ ] Snake Exena
