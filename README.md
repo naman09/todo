@@ -7,6 +7,7 @@
 In next 2-3 years, I want to skill up myself to design and implement large scale applications for customers using modern frameworks and practices.
 
 ## Learn
+- [ ] [AWS Well-Architected Framewrok](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 - [ ] Practice **speaking** in english
 - [ ] Neo4j
 - [ ] Testing on toilet
