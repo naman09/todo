@@ -35,9 +35,12 @@ In next 2-3 years, I want to skill up myself to design and implement large scale
   - [ ] chess, blackjack
   - [ ] car rental system
 - Books
+  - [ ] Head First Design Pattern
   - [ ] System Design by Alex Xu
   - [ ] System Design The Big Archive
   - [ ] Head First OO Analysis and Design
+  - [ ] Designing Data Intensive Applications (Check if useful)
+  - [ ] Patterns of Enterprise Application Architecture (Check if useful)
 
 ## Projects
 - [ ] Access Miner
