@@ -28,6 +28,7 @@ In next 2-3 years, I want to skill up myself to design and implement large scale
   - [ ] youtube
   - [ ] news feed system
   - [ ] google drive
+  - [ ] Others - Netflix, twitter, amazon shopping app,facebook, google calendar, S3
 - [ ] Create 5 low level design [lld1](https://github.com/prasadgujar/low-level-design-primer) [lld2](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
   - [ ] Parking lot system
   - [ ] library management system
