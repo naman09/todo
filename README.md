@@ -1,12 +1,14 @@
 # todo
 
 ## Current
-- AWS
+- CP
+- Game Dev w/ Godot
 
 ## Goal for 2025
 In next 2-3 years, I want to skill up myself to design and implement large scale applications for customers using modern frameworks and practices.
 
 ## Learn
+- [x] [AWS Solution Architect - Associate](https://www.credly.com/badges/4d30b63f-827f-4e8e-a073-fdca5e94f5c2/linked_in_profile)
 - [ ] [AWS Well-Architected Framewrok](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 - [ ] Practice **speaking** in english
 - [ ] Neo4j
@@ -19,9 +21,6 @@ In next 2-3 years, I want to skill up myself to design and implement large scale
 - [ ] [Helm chart](https://learn.acloud.guru/course/helm-deep-dive-v3/dashboard)
 - [ ] [Vault](https://app.pluralsight.com/library/courses/hashicorp-vault-installing-configuring/table-of-contents)
   - [ ] [Resource 2](https://learn.acloud.guru/course/hashicorp-vault/dashboard)
-- [ ] Jenkins - Setup a CI/CD pipeline from scratch in local machine
-- [ ] Jenkins - Modern CI/CD pipeline for deploying K8s workloads
-- [ ] Deploy dynamic website in aws built in spring boot and react app
 - [ ] Go - concurrent programming examples
 - [ ] Exponent youtube videos on system design
 - [ ] Create 5 high level design
@@ -37,18 +36,21 @@ In next 2-3 years, I want to skill up myself to design and implement large scale
   - [ ] chess, blackjack
   - [ ] car rental system
 - Books
-  - [ ] Head First Design Pattern
   - [ ] System Design by Alex Xu
+  - [ ] Patterns of Enterprise Application Architecture
+  - [ ] Head First Design Pattern
   - [ ] System Design The Big Archive
   - [ ] Head First OO Analysis and Design
   - [ ] Designing Data Intensive Applications (Check if useful)
-  - [ ] Patterns of Enterprise Application Architecture (Check if useful)
 
 ## Projects
-- [ ] Access Miner
-- [ ] Snake Exena
 - [ ] Pocket Cannons
   - [Game Design](https://docs.google.com/document/d/19E7D5ehD7H2gMnAsWDlhHeKCa2GF0cEnpj66-2CyTQA/edit)
+- [ ] Access Miner
+- [ ] Snake Exena
+- [ ] Jenkins - Setup a CI/CD pipeline from scratch in local machine
+- [ ] Jenkins - Modern CI/CD pipeline for deploying K8s workloads
+- [ ] Deploy dynamic website in aws built in spring boot and react app
 
 ## Ideas
 - [ ] Wifi direct data transfer message app
