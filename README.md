@@ -1,18 +1,19 @@
 # todo
 
 ## Current
-- CP
-- Game Dev w/ Godot
+- [AWS Well-Architected Framewrok](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
+- [LLD videos](https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW&feature=shared)
 
 ## Goal for 2025
 In next 2-3 years, I want to skill up myself to design and implement large scale applications for customers using modern frameworks and practices.
 
 ## Learn
 - [x] [AWS Solution Architect - Associate](https://www.credly.com/badges/4d30b63f-827f-4e8e-a073-fdca5e94f5c2/linked_in_profile)
-- [ ] [AWS Well-Architected Framewrok](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 - [ ] Practice **speaking** in english
 - [ ] Neo4j
 - [ ] Testing on toilet
+- [ ] CP
+- [ ] Game Dev w/ Godot
 - LinkedIn posts by Alex Wu
   - [ ] [Images](https://www.linkedin.com/in/alexxubyte/recent-activity/images/)
   - [ ] [Documents](https://www.linkedin.com/in/alexxubyte/recent-activity/documents/)
