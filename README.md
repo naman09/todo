@@ -10,6 +10,7 @@ In next 2-3 years, I want to skill up myself to design and implement large scale
 ## Learn
 - [x] [AWS Solution Architect - Associate](https://www.credly.com/badges/4d30b63f-827f-4e8e-a073-fdca5e94f5c2/linked_in_profile)
 - [ ] Practice **speaking** in english
+- [ ] Redshift - how to use it for analytics w/ code example
 - [ ] Neo4j
 - [ ] Testing on toilet
 - [ ] CP
@@ -45,6 +46,8 @@ In next 2-3 years, I want to skill up myself to design and implement large scale
   - [ ] Designing Data Intensive Applications (Check if useful)
 
 ## Projects
+- [ ] Portfolio website
+- [ ] Create github first page and add all details like https://github.com/taranjeet
 - [ ] Pocket Cannons
   - [Game Design](https://docs.google.com/document/d/19E7D5ehD7H2gMnAsWDlhHeKCa2GF0cEnpj66-2CyTQA/edit)
 - [ ] Access Miner
