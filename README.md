@@ -11,6 +11,7 @@ In next 2-3 years, I want to skill up myself to design and implement large scale
 - [x] [AWS Solution Architect - Associate](https://www.credly.com/badges/4d30b63f-827f-4e8e-a073-fdca5e94f5c2/linked_in_profile)
 - [ ] Practice **speaking** in english
 - [ ] Redshift - how to use it for analytics w/ code example
+- [ ] How logstash (ELK stack) is used ? How to add log filters ? hands-on example
 - [ ] Neo4j
 - [ ] Testing on toilet
 - [ ] CP
