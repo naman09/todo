@@ -26,7 +26,9 @@ In next 2-3 years, I want to skill up myself to design and implement large scale
   - [ ] [Resource 2](https://learn.acloud.guru/course/hashicorp-vault/dashboard)
 - [ ] Go - concurrent programming examples
 - [ ] Exponent youtube videos on system design
-- [ ] Create 5 high level design
+- [ ] [Create high level design](https://github.com/naman09/todo/design.md)
+  - [ ] Click stream analytics
+  - [ ] Automation bot transactions analytics
   - [ ] key-value store
   - [ ] chat system
   - [ ] youtube
