@@ -26,8 +26,8 @@ In next 2-3 years, I want to skill up myself to design and implement large scale
   - [ ] [Resource 2](https://learn.acloud.guru/course/hashicorp-vault/dashboard)
 - [ ] Go - concurrent programming examples
 - [ ] Exponent youtube videos on system design
-- [ ] [Create high level design](https://github.com/naman09/todo/design/design.md)
-- [ ] [Create 5 low level design](https://github.com/naman09/todo/design/design.md) 
+- [ ] [Create high level design](https://github.com/naman09/todo/blob/main/design.md)
+- [ ] [Create 5 low level design](https://github.com/naman09/todo/blob/main/design.md) 
   - [lld1](https://github.com/prasadgujar/low-level-design-primer) 
   - [lld2](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
 - Books
