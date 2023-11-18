@@ -1,0 +1,12 @@
+# Roadmap
+- [ ] Real world projects and Case studies
+- [ ] Hands on Hadoop, Spark, NoSQL DBs
+- [ ] AWS Glue -> ETL
+- [ ] Amazon EMR -> EMR
+- [ ] Redshift
+- [ ] Kinesis
+- [ ] Athena
+- [ ] Quicksight
+- [ ] SageMaker
+- [ ] Security & compliance for big data
+- [ ] Perf optimizations & cost management

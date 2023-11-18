@@ -21,9 +21,6 @@ In next 2-3 years, I want to skill up myself to design and implement large scale
   - [ ] [Documents](https://www.linkedin.com/in/alexxubyte/recent-activity/documents/)
 - [ ] MIT Security Course
 - [ ] Practice threat modeling using [tools](https://online.visual-paradigm.com/diagrams/features/threat-modeling-tool/)
-- [ ] [Helm chart](https://learn.acloud.guru/course/helm-deep-dive-v3/dashboard)
-- [ ] [Vault](https://app.pluralsight.com/library/courses/hashicorp-vault-installing-configuring/table-of-contents)
-  - [ ] [Resource 2](https://learn.acloud.guru/course/hashicorp-vault/dashboard)
 - [ ] Go - concurrent programming examples
 - [ ] Exponent youtube videos on system design
 - [ ] [Create high level design](https://github.com/naman09/todo/blob/main/design.md)
@@ -39,7 +36,6 @@ In next 2-3 years, I want to skill up myself to design and implement large scale
   - [ ] Designing Data Intensive Applications (Check if useful)
 
 ## Projects
-- [ ] Portfolio website
 - [ ] Create github first page and add all details like https://github.com/taranjeet
 - [ ] Pocket Cannons
   - [Game Design](https://docs.google.com/document/d/19E7D5ehD7H2gMnAsWDlhHeKCa2GF0cEnpj66-2CyTQA/edit)
@@ -48,7 +44,4 @@ In next 2-3 years, I want to skill up myself to design and implement large scale
 - [ ] Jenkins - Setup a CI/CD pipeline from scratch in local machine
 - [ ] Jenkins - Modern CI/CD pipeline for deploying K8s workloads
 - [ ] Deploy dynamic website in aws built in spring boot and react app
-
-## Ideas
-- [ ] Wifi direct data transfer message app
 
