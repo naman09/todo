@@ -1,7 +1,8 @@
 # High level design
 
 - [ ] Click stream analytics
-- [ ] Automation bot transactions analytics
+- [x] [Automation bot transactions analytics](https://app.diagrams.net/#Hnaman09%2FSystemDesign%2Fmain%2FHLD%2FBot_Transactions.drawio)
+- [ ] Logging system
 - [ ] key-value store
 - [ ] chat system
 - [ ] youtube (include shorts)
