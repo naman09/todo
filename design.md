@@ -1,4 +1,4 @@
-# High level design
+# [High level design](https://github.com/naman09/SystemDesign/tree/main/HLD)
 
 - [ ] Click stream analytics
 - [x] [Automation bot transactions analytics](https://app.diagrams.net/#Hnaman09%2FSystemDesign%2Fmain%2FHLD%2FBot_Transactions.drawio)
@@ -56,7 +56,7 @@
 - [ ] Distributed Cloud Storage like S3
 - [ ] Distributed Locking Service
 
-# Low level design
+# [Low level design](https://github.com/naman09/SystemDesign/tree/main/LLD)
 - [ ] Parking lot system
 - [ ] library management system
 - [ ] chess
