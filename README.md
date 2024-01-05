@@ -9,6 +9,7 @@ In next 2-3 years, I want to skill up myself to design and implement large scale
 
 ## Learn
 - [x] [AWS Solution Architect - Associate](https://www.credly.com/badges/4d30b63f-827f-4e8e-a073-fdca5e94f5c2/linked_in_profile)
+- [ ] [AWS Bootcamp](https://youtu.be/zA8guDqfv40?feature=shared)
 - [ ] Practice **speaking** in english
 - [ ] Redshift - how to use it for analytics w/ code example
 - [ ] How logstash (ELK stack) is used? What kind of log filters are added? hands-on example
