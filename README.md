@@ -37,6 +37,7 @@ In next 2-3 years, I want to skill up myself to design and implement large scale
   - [ ] Designing Data Intensive Applications (Check if useful)
 
 ## Projects
+- [ ] Snapgram Clone
 - [ ] Create github first page and add all details like https://github.com/taranjeet
 - [ ] Pocket Cannons
   - [Game Design](https://docs.google.com/document/d/19E7D5ehD7H2gMnAsWDlhHeKCa2GF0cEnpj66-2CyTQA/edit)
