@@ -62,3 +62,7 @@ https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
 - [ ] Jenkins - Modern CI/CD pipeline for deploying K8s workloads
 - [ ] Deploy dynamic website in aws built in spring boot and react app
 
+## Level up in future
+- [ ] https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader
+- [ ] https://github.com/papers-we-love/papers-we-love
+- [ ] https://github.com/jordan-cutler/path-to-senior-engineer-handbook
