@@ -25,12 +25,22 @@ I want to learn how to write better code and review other people's code
 - [ ] MIT Security Course
 - [ ] Practice threat modeling using [tools](https://online.visual-paradigm.com/diagrams/features/threat-modeling-tool/)
 - [ ] Go - concurrent programming examples
-- [ ] Exponent youtube videos on system design
+- [ ] [Interview handbook (ex-meta staff engineer)](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
+- [ ] [Only go through Q/A to learn various topics](https://github.com/bregman-arie/devops-exercises?tab=readme-ov-file#operating-system)
+- [ ] [12 Factor App](https://12factor.net/)
+- [ ] [System design in easy viz](https://github.com/ByteByteGoHq/system-design-101)
+
+### High level design
 - [ ] [Create high level design](https://github.com/naman09/todo/blob/main/design.md)
+- [ ] [Complete high level design list using free resources](https://github.com/ashishps1/awesome-system-design-resources?tab=readme-ov-file)
+- [ ] Exponent youtube videos on system design
+
+### Low level design
 - [ ] [Create 5 low level design](https://github.com/naman09/todo/blob/main/design.md) 
   - [lld1](https://github.com/prasadgujar/low-level-design-primer) 
   - [lld2](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
-- Books
+  
+### Books
   - [ ] System Design by Alex Xu
   - [ ] Patterns of Enterprise Application Architecture
   - [ ] Head First Design Pattern
