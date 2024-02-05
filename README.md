@@ -6,6 +6,9 @@
 In next 2-3 years, I want to skill up myself to design and implement large scale applications for customers using modern frameworks and practices.
 I want to learn how to write better code and review other people's code
 
+## Roadmaps
+https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
+
 ## Learn
 - [x] [AWS Solution Architect - Associate](https://www.credly.com/badges/4d30b63f-827f-4e8e-a073-fdca5e94f5c2/linked_in_profile)
 - [x] [AWS Well-Architected Framewrok](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
