@@ -4,8 +4,8 @@
 - [ ] Leetcode 75 problems
 
 ## Goal for 2025
-In next 2-3 years, I want to skill up myself to design and implement large scale applications for customers using modern frameworks and practices.
-I want to learn how to write better code and review other people's code
+In next 2-3 years I want to improve logic building, learn low level design & coding best practices and review other people code.
+In next 3-5 years I want to skill up myself to design and implement large scale applications for customers using modern frameworks and practices.
 
 ## Roadmaps
 https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
