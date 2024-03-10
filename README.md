@@ -4,7 +4,7 @@
 - [ ] Leetcode 75 problems
 
 ## Goal for 2025
-In next 2-3 years I want to improve logic building and analysis, learn low level design & coding best practices and review other people code.
+In next 2-3 years I want to improve logic building and analysis, learn low level design, high level design, coding best practices and code reviews.
 In next 3-5 years I want to skill up myself to design and implement large scale applications for customers using modern frameworks and practices.
 
 ## Roadmaps
