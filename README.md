@@ -22,6 +22,9 @@ https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
 - [ ] Testing on toilet
 - [ ] CP
 - [ ] Game Dev w/ Godot
+  - https://itch.io/game-assets/free
+  - https://lospec.com/pixel-art-scaler/
+  - https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_android.html#doc-exporting-for-android
 - LinkedIn posts by Alex Wu
   - [ ] [Images](https://www.linkedin.com/in/alexxubyte/recent-activity/images/)
   - [ ] [Documents](https://www.linkedin.com/in/alexxubyte/recent-activity/documents/)
