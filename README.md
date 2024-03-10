@@ -1,6 +1,7 @@
 # todo
 
 ## Current
+- [ ] Leetcode 75 problems
 
 ## Goal for 2025
 In next 2-3 years, I want to skill up myself to design and implement large scale applications for customers using modern frameworks and practices.
