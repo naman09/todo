@@ -15,6 +15,7 @@ https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
 ## Learn
 - [x] [AWS Solution Architect - Associate](https://www.credly.com/badges/4d30b63f-827f-4e8e-a073-fdca5e94f5c2/linked_in_profile)
 - [x] [AWS Well-Architected Framewrok](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
+- [ ] [Code Walks](https://www.youtube.com/playlist?list=PLrhzvIcii6GOJwiBjCRX_s0owE91KLtgu)
 - [ ] [LLD videos](https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW&feature=shared)
 - [ ] [Distributed Systems by Martin Kleppmann](https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB&feature=shared)
 - [ ] [AWS Bootcamp](https://youtu.be/zA8guDqfv40?feature=shared)
