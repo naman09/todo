@@ -31,7 +31,8 @@ https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
 - LinkedIn posts by Alex Wu
   - [ ] [Images](https://www.linkedin.com/in/alexxubyte/recent-activity/images/)
   - [ ] [Documents](https://www.linkedin.com/in/alexxubyte/recent-activity/documents/)
-- [ ] MIT Security Course
+- [ ] [MIT Security Course](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
+- [ ] [MIT 6042](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
 - [ ] Practice threat modeling using [tools](https://online.visual-paradigm.com/diagrams/features/threat-modeling-tool/)
 - [ ] Go - concurrent programming examples
 - [ ] [Interview handbook (ex-meta staff engineer)](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
