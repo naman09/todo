@@ -2,6 +2,7 @@
 
 ## Current
 - [ ] Leetcode 75 problems
+- [ ] Codeforces reach 1600
 
 ## Goal for 2025
 In next 2-3 years I want to improve logic building and analysis, learn low level design, high level design, coding best practices and code reviews.
@@ -22,7 +23,6 @@ https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
 - [ ] How logstash (ELK stack) is used? What kind of log filters are added? hands-on example
 - [ ] Neo4j
 - [ ] Testing on toilet
-- [ ] CP
 - [ ] Game Dev w/ Godot
   - https://itch.io/game-assets/free
   - https://lospec.com/pixel-art-scaler/
@@ -66,6 +66,7 @@ https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
 - [ ] Jenkins - Setup a CI/CD pipeline from scratch in local machine
 - [ ] Jenkins - Modern CI/CD pipeline for deploying K8s workloads
 - [ ] Deploy dynamic website in aws built in spring boot and react app
+- [ ] Build a website for a small scale local business
 
 ## Level up in future
 - [ ] https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader
