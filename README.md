@@ -20,6 +20,7 @@ https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
 - [ ] [Distributed Systems by Martin Kleppmann](https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB&feature=shared)
 - [ ] [AWS Bootcamp](https://youtu.be/zA8guDqfv40?feature=shared)
 - [ ] Practice **speaking** in english
+  - Schedule a clapingo class. See if we can do it recurringly for next goals
 - [ ] Redshift - how to use it for analytics w/ code example
 - [ ] How logstash (ELK stack) is used? What kind of log filters are added? hands-on example
 - [ ] Neo4j
@@ -69,6 +70,7 @@ https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
 - [ ] Jenkins - Modern CI/CD pipeline for deploying K8s workloads
 - [ ] Deploy dynamic website in aws built in spring boot and react app
 - [ ] Build a website for a small scale local business
+- [ ] Drag n drop logic builder like A360
 
 ## Level up in future
 - [ ] https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader
