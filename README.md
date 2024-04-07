@@ -61,6 +61,7 @@ https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
 
 ## Projects
 - [ ] Snapgram Clone
+- [ ] Setup promethesus for a application (like postgres)
 - [ ] Create github first page and add all details like https://github.com/taranjeet
 - [ ] Pocket Cannons
   - [Game Design](https://docs.google.com/document/d/19E7D5ehD7H2gMnAsWDlhHeKCa2GF0cEnpj66-2CyTQA/edit)
