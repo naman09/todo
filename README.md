@@ -44,6 +44,7 @@ https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
   - https://itch.io/game-assets/free
   - https://lospec.com/pixel-art-scaler/
   - https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_android.html#doc-exporting-for-android
+  - Setup pipeline on github actions and make the gane open source project
 
   ### Long term
   - [ ] [12 Factor App](https://12factor.net/)
