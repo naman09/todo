@@ -69,6 +69,7 @@ https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
   - [ ] Designing Data Intensive Applications (Check if useful)
 
 ## Projects
+- [ ] [CodePariksha](https://github.com/naman09/CodePariksha)
 - [ ] Snapgram Clone
 - [ ] Setup promethesus for a application (like postgres)
 - [ ] Create github first page and add all details like https://github.com/taranjeet
