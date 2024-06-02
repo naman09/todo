@@ -3,6 +3,10 @@
 ## Current
 
 - [ ] Codeforces reach 1600
+- [ ] System Design (HLD)
+  - [ ] exponent videos
+  - [ ] Alex Wu Book
+  - [ ] [Create high level design](https://github.com/naman09/todo/blob/main/design.md) [Answers](https://github.com/ashishps1/awesome-system-design-resources?tab=readme-ov-file)
 
 ## Goal for 2025
 In next 2-3 years I want to improve logic building and analysis, learn low level design, high level design, coding best practices and code reviews.
