@@ -4,17 +4,21 @@
 
 - [ ] Codeforces reach 1600
 - [ ] System Design (HLD)
-  - [ ] exponent videos
-  - [ ] Alex Wu Book
-  - [ ] [Create high level design](https://github.com/naman09/todo/blob/main/design.md) [Answers](https://github.com/ashishps1/awesome-system-design-resources?tab=readme-ov-file)
+  - [ ] Resource
+    - [ ] [karanpratapsingh](https://github.com/karanpratapsingh/system-design)
+    - [ ] exponent videos
+    - [ ] Alex Wu Book
+  - [ ] Practice
+    - [ ] [Questions](https://github.com/naman09/todo/blob/main/design.md) [Answers](https://github.com/ashishps1/awesome-system-design-resources?tab=readme-ov-file)
+- [ ] LLD
+  - [ ] Resources
+    - [ ] [lld1](https://github.com/prasadgujar/low-level-design-primer)
+    - [ ] [lld2](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
 
 ## Goal for 2025
 In next 2-3 years I want to improve logic building and analysis, learn low level design, high level design, coding best practices and code reviews.
 
 In next 3-5 years I want to skill up myself to design and implement large scale applications for customers using modern frameworks and practices.
-
-## Roadmaps
-https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
 
 ## Learn
   - [x] [AWS Solution Architect - Associate](https://www.credly.com/badges/4d30b63f-827f-4e8e-a073-fdca5e94f5c2/linked_in_profile)
@@ -26,14 +30,9 @@ https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
 
 ### Low level design
   - [ ] [Create 5 low level design](https://github.com/naman09/todo/blob/main/design.md) 
-    - [lld1](https://github.com/prasadgujar/low-level-design-primer) 
-    - [lld2](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
+
 
 ### High level design
-  - [ ] [Create high level design](https://github.com/naman09/todo/blob/main/design.md)
-  - [ ] [Complete high level design list using free resources](https://github.com/ashishps1/awesome-system-design-resources?tab=readme-ov-file)
-  - [ ] Exponent youtube videos on system design
-
 - [ ] [Interview handbook (ex-meta staff engineer)](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
 
 ### LinkedIn posts by Alex Wu
@@ -90,3 +89,6 @@ https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
 - [ ] https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader
 - [ ] https://github.com/papers-we-love/papers-we-love
 - [ ] https://github.com/jordan-cutler/path-to-senior-engineer-handbook
+
+## Roadmaps
+https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
