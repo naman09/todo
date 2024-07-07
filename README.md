@@ -19,7 +19,7 @@
 In next 2-3 years I want to improve logic building and analysis, learn low level design, high level design, coding best practices and code reviews.
 
 ## Goal till 2027
-In next 3-5 years I want to skill up myself to design and implement large scale applications for customers using modern frameworks and practices.
+In next 3-5 years I want to skill up myself to design and implement large scale customers facing applications using modern frameworks and practices.
 
 ## Learn
   - [x] [AWS Solution Architect - Associate](https://www.credly.com/badges/4d30b63f-827f-4e8e-a073-fdca5e94f5c2/linked_in_profile)
