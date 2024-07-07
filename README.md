@@ -6,7 +6,7 @@
 - [ ] System Design (HLD)
   - [ ] Resource
     - [ ] [karanpratapsingh](https://github.com/karanpratapsingh/system-design)
-    - [ ] exponent videos
+    - [ ] [exponent videos](https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL)
     - [ ] Alex Wu Book
   - [ ] Practice
     - [ ] [Questions](https://github.com/naman09/todo/blob/main/design.md) [Answers](https://github.com/ashishps1/awesome-system-design-resources?tab=readme-ov-file)
