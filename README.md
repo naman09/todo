@@ -12,8 +12,8 @@
     - [ ] [Questions](https://github.com/naman09/todo/blob/main/design.md) [Answers](https://github.com/ashishps1/awesome-system-design-resources?tab=readme-ov-file)
 - [ ] LLD
   - [ ] Resources
-    - [ ] [lld1](https://github.com/prasadgujar/low-level-design-primer)
-    - [ ] [lld2](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
+    - [ ] [lld1](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
+    - [ ] [lld2](https://github.com/prasadgujar/low-level-design-primer)
 
 ## Goal till 2025
 In next 2-3 years I want to improve logic building and analysis, learn low level design, high level design, coding best practices and code reviews.
