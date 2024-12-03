@@ -3,8 +3,7 @@
 ## Current
 
 - [ ] Codeforces reach 1600
-- [ ] Practice
-    - [ ] https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md
+- [ ] [Practice LLD](https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md)
 
 ## Goal till 2025
 In next 2-3 years I want to improve logic building and analysis, learn low level design, high level design, coding best practices and code reviews.
