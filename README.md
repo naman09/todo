@@ -71,6 +71,10 @@ In next 3-5 years I want to skill up myself to design and implement large scale 
 
 ## Projects
 - [ ] [CodePariksha](https://github.com/naman09/CodePariksha)
+- [ ] Must Do Basic Projects
+  - [ ] Text Editor
+  - [ ] Simple Compiler
+  - [ ] Simple Game Hardware Emulator
 - [ ] Snapgram Clone
 - [ ] Setup promethesus for a application (like postgres)
 - [ ] Create github first page and add all details like https://github.com/taranjeet
