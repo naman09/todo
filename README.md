@@ -63,10 +63,11 @@ In next 3-5 years I want to skill up myself to design and implement large scale 
   
 ### Books
   - [ ] System Design by Alex Xu
+  - [ ] System Design Vol 2 by Alex Xu
   - [ ] Patterns of Enterprise Application Architecture
   - [ ] Head First Design Pattern
   - [ ] System Design The Big Archive
-  - [ ] Head First OO Analysis and Design
+  - [ ] Head First OO Analysis and Design (Check if useful)
   - [ ] Designing Data Intensive Applications (Check if useful)
 
 ## Projects
