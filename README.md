@@ -93,3 +93,16 @@ In next 3-5 years I want to skill up myself to design and implement large scale 
 
 ## Roadmaps
 https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
+
+## Big Data Roadmap
+-  Real world projects and Case studies
+-  Hands on Hadoop, Spark, NoSQL DBs
+-  AWS Glue -> ETL
+-  Amazon EMR -> EMR
+-  Redshift
+-  Kinesis
+-  Athena
+-  Quicksight
+-  SageMaker
+-  Security & compliance for big data
+-  Perf optimizations & cost management
