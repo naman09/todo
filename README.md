@@ -3,7 +3,7 @@
 ## Current
 
 - [ ] Codeforces reach 1600
-- [ ] [Practice LLD](https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md)
+
 
 ## Goal till 2025
 In next 2-3 years I want to improve logic building and analysis, learn low level design, high level design, coding best practices and code reviews.
@@ -21,6 +21,7 @@ In next 3-5 years I want to skill up myself to design and implement large scale 
 
 ### Low level design
   - [ ] [Create 5 low level design](https://github.com/naman09/todo/blob/main/design.md)
+  - [ ] [Practice LLD](https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md)
   - [ ] Resources
     - [ ] [lld1](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
     - [ ] [lld2](https://github.com/prasadgujar/low-level-design-primer) 
