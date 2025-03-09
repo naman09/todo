@@ -3,6 +3,7 @@
 ## Current
 
 - [ ] Codeforces reach 1600
+- [ ] [Code Walks](https://www.youtube.com/playlist?list=PLrhzvIcii6GOJwiBjCRX_s0owE91KLtgu)
 
 
 ## Goal till 2025
@@ -15,7 +16,6 @@ In next 3-5 years I want to skill up myself to design and implement large scale 
   - [x] [AWS Solution Architect - Associate](https://www.credly.com/badges/4d30b63f-827f-4e8e-a073-fdca5e94f5c2/linked_in_profile)
   - [x] [AWS Well-Architected Framewrok](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
   - [x] Leetcode 75 problems
-  - [ ] [Code Walks](https://www.youtube.com/playlist?list=PLrhzvIcii6GOJwiBjCRX_s0owE91KLtgu)
   - [ ] [Distributed Systems by Martin Kleppmann](https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB&feature=shared)
   - [ ] Testing on toilet
 
