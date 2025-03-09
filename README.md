@@ -29,15 +29,7 @@ In next 3-5 years I want to skill up myself to design and implement large scale 
 
 ### High level design
 - [ ] [Interview handbook (ex-meta staff engineer)](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
-- [ ] Resource
-    - [ ] [karanpratapsingh](https://github.com/karanpratapsingh/system-design)
-    - [ ] [exponent videos](https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL)
-    - [ ] Alex Wu Book
-    - [ ] HLD Practice [Questions](https://github.com/naman09/todo/blob/main/design.md) [Answers](https://github.com/ashishps1/awesome-system-design-resources?tab=readme-ov-file)
-
-### LinkedIn posts by Alex Wu
-  - [ ] [Images](https://www.linkedin.com/in/alexxubyte/recent-activity/images/)
-  - [ ] [Documents](https://www.linkedin.com/in/alexxubyte/recent-activity/documents/)
+- [ ] HLD Practice [Questions](https://github.com/naman09/todo/blob/main/design.md) [Answers](https://github.com/ashishps1/awesome-system-design-resources?tab=readme-ov-file)
 
 ### Security
   - [ ] Practice threat modeling using [tools](https://online.visual-paradigm.com/diagrams/features/threat-modeling-tool/)
@@ -63,7 +55,7 @@ In next 3-5 years I want to skill up myself to design and implement large scale 
   - [ ] [Only go through Q/A to learn various topics](https://github.com/bregman-arie/devops-exercises?tab=readme-ov-file#operating-system)
   
 ### Books
-  - [ ] System Design by Alex Xu
+  - [x] System Design by Alex Xu
   - [ ] System Design Vol 2 by Alex Xu
   - [ ] Patterns of Enterprise Application Architecture
   - [ ] Head First Design Pattern
@@ -94,6 +86,15 @@ In next 3-5 years I want to skill up myself to design and implement large scale 
 - [ ] https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader
 - [ ] https://github.com/papers-we-love/papers-we-love
 - [ ] https://github.com/jordan-cutler/path-to-senior-engineer-handbook
+
+
+## Resources
+- [karanpratapsingh](https://github.com/karanpratapsingh/system-design)
+- [exponent videos](https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL)
+- Alex Wu Book
+- ### LinkedIn posts by Alex Wu
+  - [ ] [Images](https://www.linkedin.com/in/alexxubyte/recent-activity/images/)
+  - [ ] [Documents](https://www.linkedin.com/in/alexxubyte/recent-activity/documents/)
 
 ## Roadmaps
 https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
