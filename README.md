@@ -21,11 +21,6 @@ In next 3-5 years I want to skill up myself to design and implement large scale 
 
 ### Low level design
   - [ ] [Create 5 low level design](https://github.com/naman09/todo/blob/main/design.md)
-  - [ ] [Practice LLD](https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md)
-  - [ ] Resources
-    - [ ] [lld1](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
-    - [ ] [lld2](https://github.com/prasadgujar/low-level-design-primer) 
-
 
 ### High level design
 - [ ] [Interview handbook (ex-meta staff engineer)](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
@@ -58,7 +53,7 @@ In next 3-5 years I want to skill up myself to design and implement large scale 
   - [x] System Design by Alex Xu
   - [ ] System Design Vol 2 by Alex Xu
   - [ ] Patterns of Enterprise Application Architecture
-  - [ ] Head First Design Pattern
+  - [x] Head First Design Pattern
   - [ ] System Design The Big Archive
   - [ ] Head First OO Analysis and Design (Check if useful)
   - [ ] Designing Data Intensive Applications (Check if useful)
@@ -87,11 +82,11 @@ In next 3-5 years I want to skill up myself to design and implement large scale 
 - [ ] https://github.com/papers-we-love/papers-we-love
 - [ ] https://github.com/jordan-cutler/path-to-senior-engineer-handbook
 
-
 ## Resources
 - [karanpratapsingh](https://github.com/karanpratapsingh/system-design)
 - [exponent videos](https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL)
 - Alex Wu Book
+- [LLD Practice Question](https://github.com/ashishps1/awesome-low-level-design/tree/main)
 - ### LinkedIn posts by Alex Wu
   - [ ] [Images](https://www.linkedin.com/in/alexxubyte/recent-activity/images/)
   - [ ] [Documents](https://www.linkedin.com/in/alexxubyte/recent-activity/documents/)
