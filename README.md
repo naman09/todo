@@ -2,9 +2,7 @@
 
 ## Current
 
-- [ ] Codeforces reach 1600
-- [ ] [Code Walks](https://www.youtube.com/playlist?list=PLrhzvIcii6GOJwiBjCRX_s0owE91KLtgu)
-
+- [ ] Psychology Crash Course
 
 ## Goal till 2025
 In next 2-3 years I want to improve logic building and analysis, learn low level design, high level design, coding best practices and code reviews.
@@ -18,6 +16,8 @@ In next 3-5 years I want to skill up myself to design and implement large scale 
   - [x] Leetcode 75 problems
   - [ ] [Distributed Systems by Martin Kleppmann](https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB&feature=shared)
   - [ ] Testing on toilet
+  - [ ] Codeforces reach 1600
+- [ ] [Code Walks](https://www.youtube.com/playlist?list=PLrhzvIcii6GOJwiBjCRX_s0owE91KLtgu)
 
 ### Low level design
   - [ ] [Create 5 low level design](https://github.com/naman09/todo/blob/main/design.md)
