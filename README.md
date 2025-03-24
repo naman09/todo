@@ -3,6 +3,7 @@
 ## Current
 
 - [ ] Psychology Crash Course
+- [ ] Spring Boot Funda
 - [ ] 2D game in godot (player can move in a maze, shoot, when reach right side then new maze is in view and when move left older maze is in view]
 
 ## Goal till 2025
