@@ -44,6 +44,7 @@ In next 3-5 years I want to skill up myself to design and implement large scale 
   
 ### Books
   - [x] System Design by Alex Xu
+  - [ ] Don't make me think
   - [ ] System Design Vol 2 by Alex Xu
   - [ ] Patterns of Enterprise Application Architecture
   - [x] Head First Design Pattern
