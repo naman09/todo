@@ -3,6 +3,7 @@
 ## Current
 
 - [ ] Psychology Crash Course
+- [ ] 2D game in godot (player can move in a maze, shoot, when reach right side then new maze is in view and when move left older maze is in view]
 
 ## Goal till 2025
 In next 2-3 years I want to improve logic building and analysis, learn low level design, high level design, coding best practices and code reviews.
