@@ -1,0 +1,17 @@
+* ~~https://quoraengineering.quora.com/Optimizing-the-databases-at-Quora~~
+* https://quoraengineering.quora.com/MySQL-sharding-at-Quora
+* https://blog.quastor.org/p/twitch-processes-millions-video-streams
+* https://blog.quastor.org/p/architecture-dropboxs-asynchronous-task-framework\
+* https://blog.quastor.org/p/airbnb-rebuilt-payments-system
+* https://blog.quastor.org/p/challenges-come-distributed-systems-83d6
+* https://blog.quastor.org/p/benchling-changed-search-architecture
+* https://blog.quastor.org/p/facebook-encodes-videos-6514
+* https://blog.quastor.org/p/netflix-syncs-hundreds-millions-devices
+* https://blog.quastor.org/p/design-better-apis
+* https://blog.quastor.org/p/observability-twitter
+* https://blog.quastor.org/p/dropbox-implemented-image-search-feature
+* https://monzo.com/blog/2022/05/16/how-we-deploy-to-production-over-100-times-a-day?utm_source=blog.quastor.org&utm_medium=referral&utm_campaign=the-engineering-behind-instagram-s-recommendations
+* https://www.infoq.com/presentations/migration-microservices-scale/?utm_source=blog.quastor.org&utm_medium=referral&utm_campaign=the-engineering-behind-instagram-s-recommendations
+* https://oauthdebugger.com/debug
+* https://web.stanford.edu/class/cs240/old/sp2014/readings/worse-is-better.html
+* https://openid.net/specs/openid-connect-core-1_0.html
