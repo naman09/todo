@@ -1,4 +1,4 @@
-* ~~https://quoraengineering.quora.com/Optimizing-the-databases-at-Quora~~
+* https://quoraengineering.quora.com/Optimizing-the-databases-at-Quora
 * https://quoraengineering.quora.com/MySQL-sharding-at-Quora
 * https://blog.quastor.org/p/twitch-processes-millions-video-streams
 * https://blog.quastor.org/p/architecture-dropboxs-asynchronous-task-framework\
