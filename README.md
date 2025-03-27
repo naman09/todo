@@ -6,6 +6,49 @@
 - [ ] Spring Boot Funda
 - [ ] 2D game in godot (player can move in a maze, shoot, when reach right side then new maze is in view and when move left older maze is in view]
 
+<table>
+  <th>Important & Urgent</th>
+  <th>Important & Not-Urgent</th>
+  <tr>
+    <td>
+      <ul>
+        <li>Pre-onboarding tasks</li>
+        <li>Flight booking</li>
+        <li><s>Files, links transfer</s></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Wings of fire</li>
+        <li>Spring Boot</li>
+        <li>Bye bye party</li>
+        <li>Excercise</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Not Important & Urgent</th>
+    <th>Not Important & Not Urgent</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Trailhead</li>
+        <li>Office work</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Godot game</li>
+        <li>OpenGL docs</li>
+        <li>Google news</li>
+        <li>Youtube</li>
+        <li>Pschology</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ## Goal till 2025
 In next 2-3 years I want to improve logic building and analysis, learn low level design, high level design, coding best practices and code reviews.
 
