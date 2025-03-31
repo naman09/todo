@@ -12,9 +12,10 @@
   <tr>
     <td>
       <ul>
-        <li>Pre-onboarding tasks</li>
-        <li>Flight booking</li>
+        <li><s>Pre-onboarding tasks></s></li>
+        <li><s>Flight booking</s></li>
         <li><s>Files, links transfer</s></li>
+        <li>Intro pre-task</li>
       </ul>
     </td>
     <td>
@@ -43,6 +44,7 @@
         <li>OpenGL docs</li>
         <li>Google news</li>
         <li>Youtube</li>
+        <li>Personal Project - Simple website for small-med biz, non web app like text editor, git</li>
         <li>Pschology</li>
       </ul>
     </td>
