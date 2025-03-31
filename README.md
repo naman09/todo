@@ -42,7 +42,7 @@
       <ul>
         <li>Godot game</li>
         <li>OpenGL docs</li>
-        <li>Google news</li>
+        <li>Video Editing</li>
         <li>Youtube</li>
         <li>Personal Project - Simple website for small-med biz, non web app like text editor, git</li>
         <li>Pschology</li>
