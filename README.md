@@ -5,51 +5,9 @@
 - [ ] Psychology Crash Course
 - [ ] Spring Boot Funda
 - [ ] 2D game in godot (player can move in a maze, shoot, when reach right side then new maze is in view and when move left older maze is in view]
+Personal Project - Simple website for small-med biz, non web app like text editor, git
+OpenGL docs
 
-<table>
-  <th>Important & Urgent</th>
-  <th>Important & Not-Urgent</th>
-  <tr>
-    <td>
-      <ul>
-        <li><s>Pre-onboarding tasks></s></li>
-        <li><s>Flight booking</s></li>
-        <li><s>Files, links transfer</s></li>
-        <li>Intro pre-task</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Wings of fire</li>
-        <li>Spring Boot</li>
-        <li>Bye bye party</li>
-        <li>Excercise</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <th>Not Important & Urgent</th>
-    <th>Not Important & Not Urgent</th>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Trailhead</li>
-        <li>Office work</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Godot game</li>
-        <li>OpenGL docs</li>
-        <li>Video Editing</li>
-        <li>Youtube</li>
-        <li>Personal Project - Simple website for small-med biz, non web app like text editor, git</li>
-        <li>Pschology</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 ## Goal till 2025
 In next 2-3 years I want to improve logic building and analysis, learn low level design, high level design, coding best practices and code reviews.
@@ -78,7 +36,6 @@ In next 3-5 years I want to skill up myself to design and implement large scale 
 
   ### Long term
   - [ ] [12 Factor App](https://12factor.net/)
-  - [ ] [System design in easy viz](https://github.com/ByteByteGoHq/system-design-101)
   - [ ] [MIT 6046](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
   - [ ] Go - concurrent programming examples
   - [ ] [AWS Bootcamp](https://youtu.be/zA8guDqfv40?feature=shared)
@@ -118,13 +75,15 @@ In next 3-5 years I want to skill up myself to design and implement large scale 
 - [ ] Build a website for a small scale local business
 - [ ] Drag n drop logic builder like A360
 
-## Resources
+## System Design Resources
 - [karanpratapsingh](https://github.com/karanpratapsingh/system-design)
 - [exponent videos](https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL)
-- Alex Wu Book
+- [Alex Wu Book 1] (https://archive.org/details/system-design-interview-an-insiders-guide-by-alex-xu-z-lib.org/mode/2up)
+- [System design in easy viz](https://github.com/ByteByteGoHq/system-design-101)
 - [LLD Practice Question](https://github.com/ashishps1/awesome-low-level-design/tree/main)
-- https://www.techinterviewhandbook.org/software-engineering-interview-guide/
-- [Behavioural Interview](https://www.interviewgenie.com/blog/category/Amazon+interviews)
+- [Overall interview Guide](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
+- [Amazon LP Must Read](https://www.scarletink.com/p/interviewing-at-amazon-leadership-principles)
+- [Amazon LP](https://www.interviewgenie.com/blog/category/Amazon+interviews)
 - ### LinkedIn posts by Alex Wu
   - [ ] [Images](https://www.linkedin.com/in/alexxubyte/recent-activity/images/)
   - [ ] [Documents](https://www.linkedin.com/in/alexxubyte/recent-activity/documents/)
@@ -145,7 +104,7 @@ https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
 -  Security & compliance for big data
 -  Perf optimizations & cost management
 
-## Level up in future
+## Level up in 2030
 - [ ] https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader
 - [ ] https://github.com/papers-we-love/papers-we-love
 - [ ] https://github.com/jordan-cutler/path-to-senior-engineer-handbook
