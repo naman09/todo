@@ -80,13 +80,12 @@ In next 3-5 years I want to skill up myself to design and implement large scale 
 - [exponent videos](https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL)
 - [Alex Wu Book 1] (https://archive.org/details/system-design-interview-an-insiders-guide-by-alex-xu-z-lib.org/mode/2up)
 - [System design in easy viz](https://github.com/ByteByteGoHq/system-design-101)
-- [LLD Practice Question](https://github.com/ashishps1/awesome-low-level-design/tree/main)
+- [Alex Xu LinkedIn images](https://www.linkedin.com/in/alexxubyte/recent-activity/images/)
+- [Alex Xu LinkedIn documents](https://www.linkedin.com/in/alexxubyte/recent-activity/documents/)
 - [Overall interview Guide](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
 - [Amazon LP Must Read](https://www.scarletink.com/p/interviewing-at-amazon-leadership-principles)
 - [Amazon LP](https://www.interviewgenie.com/blog/category/Amazon+interviews)
-- ### LinkedIn posts by Alex Wu
-  - [ ] [Images](https://www.linkedin.com/in/alexxubyte/recent-activity/images/)
-  - [ ] [Documents](https://www.linkedin.com/in/alexxubyte/recent-activity/documents/)
+- [LLD Practice Question](https://github.com/ashishps1/awesome-low-level-design/tree/main)
 
 ## Roadmaps
 https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file
